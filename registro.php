@@ -40,7 +40,7 @@ and open the template in the editor.
                                     <input  name="passw" type="text" style="margin-top: 10px ; width:250px;height: 30px "/>
                                 </div>
                                 <br>
-                                <button type="button"  name="registrar" class="btn btn-danger " style="width:100px;height: 45px;margin-left: 50px " >Registra</button>
+                                <a href="registrado.php "> <button type="button"  name="registrar" class="btn btn-danger " style="width:100px;height: 45px;margin-left: 50px " >Registra</button></a>
                               
                             </form>
                         </div>
